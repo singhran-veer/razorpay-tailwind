@@ -6,7 +6,7 @@ This project showcases clean layout structuring, mobile responsiveness, and util
 ---
 
 ## 🌐 Live Demo
-👉 [razorpay-tailwind-m0aae0v1t-ranveer-singhs-projects-078bbeff.vercel.app]
+👉 [https://razorpay-tailwind-m0aae0v1t-ranveer-singhs-projects-078bbeff.vercel.app/]
 
 ---
 
